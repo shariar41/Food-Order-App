@@ -1,0 +1,3 @@
+# Food-Order-App
+Food-Order-App-With-Backend both customer and restaurant admin using flutter, firebase and Django
+Samples of food ordering app screens are displayed below...
