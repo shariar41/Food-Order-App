@@ -1,7 +1,10 @@
 # Food-Order-App
 App is live now.. Download it from playstore https://play.google.com/store/apps/details?id=fk.system.food_knock
+
 Food-Order-App-With-Backend both customer and restaurant admin using flutter, firebase and Django
+
 Samples of food ordering app screens are displayed below...
+
 ![rastaurant dashboard](https://user-images.githubusercontent.com/12062225/141737715-d3d6fa3e-6755-4b28-a0f7-0ec55c9fea88.png)
 ![Customer dashboard](https://user-images.githubusercontent.com/12062225/141737757-2f7693e0-4eca-44c4-b071-ff5233c61636.png)
 ![customer drawer](https://user-images.githubusercontent.com/12062225/141737800-80d4332c-81b4-4e69-ba05-13b2d1e833fa.png)
